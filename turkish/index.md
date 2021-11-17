@@ -2,7 +2,7 @@
 
 Ekran görüntüleri buraya gelecek
 
-İndirme tuşu buraya gelecek
+[![Google Play'den alın](google-play-badge.png)](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
 [Gizlilik politikası](privacyPolicy.md)
 
