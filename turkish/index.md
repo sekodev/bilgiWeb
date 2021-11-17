@@ -1,6 +1,10 @@
 <h1 align="center">bilgi: genel kültür yarışması</h1>
 <p align="center">
-  <img src="screenshots/1.png" alt = "screenshot 1" width = "75%" height = auto> <img src="screenshots/2.png" alt = "screenshot 2" width = "75%" height = auto> <img src="screenshots/3.png" alt = "screenshot 3" width = "75%" height = auto> <img src="screenshots/4.png" alt = "screenshot 4" width = "75%" height = auto> <img src="screenshots/5.png" alt = "screenshot 5" width = "75%" height = auto>
+  <img src="screenshots/1.png" alt = "screenshot 1" width = "75%" height = auto>
+  <img src="screenshots/2.png" alt = "screenshot 2" width = "75%" height = auto>
+  <img src="screenshots/3.png" alt = "screenshot 3" width = "75%" height = auto>
+  <img src="screenshots/4.png" alt = "screenshot 4" width = "75%" height = auto>
+  <img src="screenshots/5.png" alt = "screenshot 5" width = "75%" height = auto>
 </p>
  
 <p align="center">
