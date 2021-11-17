@@ -2,7 +2,7 @@
 
 Ekran görüntüleri buraya gelecek
 
-<img src="screenshots-GooglePlay/1.png" alt = "screenshot 1" width = "50%" height = auto> <img src="screenshots-GooglePlay/2.png" alt = "screenshot 2" width = "50%" height = auto> <img src="screenshots-GooglePlay/3.png" alt = "screenshot 3" width = "50%" height = auto> <img src="screenshots-GooglePlay/4.png" alt = "screenshot 4" width = "50%" height = auto> <img src="screenshots-GooglePlay/5.png" alt = "screenshot 5" width = "50%" height = auto>
+<img src="screenshots/1.png" alt = "screenshot 1" width = "20%" height = auto> <img src="screenshots/2.png" alt = "screenshot 2" width = "20%" height = auto> <img src="screenshots/3.png" alt = "screenshot 3" width = "20%" height = auto> <img src="screenshots/4.png" alt = "screenshot 4" width = "20%" height = auto> <img src="screenshots/5.png" alt = "screenshot 5" width = "20%" height = auto>
 
 [![Google Play'den alın](google-play-badge.png)](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
