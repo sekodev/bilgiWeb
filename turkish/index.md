@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="privacyPolicy.md">Gizlilik politikası</a>
+  <a href="turkish/privacyPolicy.md">Gizlilik politikası</a>
 </p>
 
 <p align="center">
