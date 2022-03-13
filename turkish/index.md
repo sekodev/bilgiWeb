@@ -1,4 +1,4 @@
-<!-- <h1 align="center">bilgi: genel kültür yarışması</h1>
+<h1 align="center">bilgi: genel kültür yarışması</h1>
 <p align="center">
   <img src="screenshots/1.png" alt = "screenshot 1" width = "75%" height = auto>
   <img src="screenshots/2.png" alt = "screenshot 2" width = "75%" height = auto>
@@ -12,14 +12,12 @@
 </p>
 
 <p align="center">
-  [Gizlilik Politikası](privacyPolicy.md)
-  <a href="privacyPolicy.md">Gizlilik politikası</a>
+  <a href="https://sekodev.github.io/bilgiWeb/turkish/privacyPolicy.html">Gizlilik politikası</a>
 </p>
 
 <p align="center">
 Google Play ve Google Play logosu Google LLC kuruluşunun ticari markalarıdır.
 </p>
--->
-[İndir (Google Play)](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
+<!--[İndir (Google Play)](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
-[Gizlilik Politikası](privacyPolicy.md)
+[Gizlilik Politikası](privacyPolicy.md)-->
