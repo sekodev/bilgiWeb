@@ -20,6 +20,6 @@
 Google Play ve Google Play logosu Google LLC kuruluşunun ticari markalarıdır.
 </p>
 -->
-[Google Play'den indirin](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
+[İndir (Google Play)](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
 [Gizlilik Politikası](privacyPolicy.md)
