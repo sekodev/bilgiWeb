@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">bilgi: genel kültür yarışması</h1>
 <p align="center">
   <img src="screenshots/1.png" alt = "screenshot 1" width = "75%" height = auto>
@@ -18,6 +19,7 @@
 <p align="center">
 Google Play ve Google Play logosu Google LLC kuruluşunun ticari markalarıdır.
 </p>
-<!--[İndir (Google Play)](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
+-->
+[Google Play'den indirin](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
-[Gizlilik Politikası](privacyPolicy.md)-->
+[Gizlilik Politikası](privacyPolicy.md)
