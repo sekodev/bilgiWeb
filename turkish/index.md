@@ -25,3 +25,5 @@ Google Play ve Google Play logosu Google LLC kuruluşunun ticari markalarıdır.
 [Kullanım Şartları](https://sekodev.github.io/games/terms/kullanimSartlari.html)
 
 [Gizlilik Politikası](https://sekodev.github.io/games/privacy/gizlilikPolitikasi.html)
+
+[İletişim](mailto:info@meetling.io)
