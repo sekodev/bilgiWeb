@@ -7,4 +7,4 @@
 
 [Privacy Policy](https://sekodev.github.io/games/privacy/privacyPolicy.html)
 
-[Contact](mailto:info@meetling.io)
+[Contact](mailto:info.sleepybug@gmail.com)

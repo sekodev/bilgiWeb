@@ -29,4 +29,4 @@ Google Play ve Google Play logosu Google LLC kuruluşunun ticari markalarıdır.
 
 [Gizlilik Politikası](https://sekodev.github.io/games/privacy/gizlilikPolitikasi.html)
 
-[İletişim](mailto:info@meetling.io)
+[İletişim](mailto:info.sleepybug@gmail.com)
