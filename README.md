@@ -1,6 +1,8 @@
 [Google Play](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
-[OpenBilgi - GitHub](https://github.com/sekodev/OpenBilgi)
+[Amazon Appstore](https://www.amazon.com/gp/product/B0C76TWXRJ)
+
+[GitHub - OpenBilgi](https://github.com/sekodev/OpenBilgi)
 <br><br><br><br>
 
 ### English
