@@ -1,3 +1,5 @@
+# bilgi: roguelike trivia
+
 [Google Play](https://play.google.com/store/apps/details?id=io.sleepybug.bilgi)
 
 [Amazon Appstore](https://www.amazon.com/gp/product/B0C76TWXRJ)
